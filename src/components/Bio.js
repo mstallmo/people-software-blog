@@ -29,7 +29,7 @@ class Bio extends React.Component {
         <p>
           Written by <strong>Mason Stallmo</strong> a software engineer in Chicago working on building video based software.{' '}
           <a href="https://twitter.com/mstallmo">
-            You should follow him on Twitter
+            Say what's up on Twitter!
           </a>
         </p>
       </div>
