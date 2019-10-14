@@ -1,6 +1,6 @@
 ---
 title: "Daily Blog: 10/13/19"
-date: "2019-10-12T22:40"
+date: "2019-10-13T22:40"
 tags: ["daily-blog"]
 ---
 
